@@ -6,5 +6,11 @@
     "copyFunction": "copyColorPicker",
     "settings": {
         "active": true
+    },
+    "metadata": {
+        "name": "Color Picker",
+        "description": "Get the hexcode for colors quickly",
+        "author": "joseph-tighe",
+        "version": "1.0.0"
     }
 }
