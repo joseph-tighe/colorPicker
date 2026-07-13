@@ -10,6 +10,7 @@
     "metadata": {
         "name": "Color Picker",
         "description": "Get the hexcode for colors quickly",
+        "icon":"colorPicker.svg",
         "author": "joseph-tighe",
         "version": "1.0.0"
     }
